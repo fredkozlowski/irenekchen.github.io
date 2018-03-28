@@ -1,6 +1,6 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Irene Chen
 
+My website, describing my personal projects, school and my art.
 
 
 
